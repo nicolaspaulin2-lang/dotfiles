@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nicolas.paulin2@gmail.com
+	name = Nicolas Paulin
